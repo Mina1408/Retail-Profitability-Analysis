@@ -35,30 +35,31 @@ Creating business metrics including revenue, cost, profit, and profit margin
 Categorizing discount levels for pricing analysis
 
 **Analysis & Insights**
-1️. Revenue vs Profitability by Product
+1️. **Revenue vs Profitability by Product**
 Business Question
 Are high-revenue products also the most profitable?
-
 Key Insight
-Several products generate strong sales but operate at low profit margins due to aggressive discounting, highlighting pricing inefficiencies.
+The analysis revealed that several high-revenue products produced below-average profit margins. This indicates reliance on aggressive discounting or higher cost structures, suggesting opportunities to optimize pricing strategies.
+Approximately 90.0% of top revenue products operated below the average margin.
 
-2️. Discount Impact on Profit Margin
+2️. **Discount Impact on Profit Margin**
 Business Question
 Do discounts improve profitability or reduce margins?
 Key Insight
-Moderate discounts improved sales volume, while higher discount levels significantly reduced overall profitability.
+High-discount transactions reduced average profit margins by approximately 56.12% compared to low-discount sales, indicating that aggressive discounting significantly erodes profitability despite increased sales incentives.
+While discounts may drive short-term volume, excessive discounting introduces material margin risk and may require tighter controls or targeted promotional strategies.
 
-3️. Regional Performance Comparison
+3️.**Regional Performance Comparison**
 Business Question
 Which regions generate the strongest business performance?
 Key Insight
-Some regions showed strong revenue growth but lower profit margins, suggesting higher operational or promotional costs.
+Regional performance varied significantly. While East region generated the highest sales volume, South region delivered the strongest profitability. This suggests operational or promotional cost differences across locations.
 
-4️. Revenue Concentration
+4️. **Revenue Concentration**
 Business Question
 Is revenue dependent on a small group of products?
 Key Insight
-A small percentage of products generated the majority of total revenue, increasing dependency risk within the product portfolio.
+Revenue distribution followed a Pareto pattern, where approximately 94.99% of products contributed to the majority of total revenue. This concentration introduces potential business risk if demand shifts for these high-performing products.
 
 **Business Recommendations**
 Review pricing strategies for low-margin, high-volume products
